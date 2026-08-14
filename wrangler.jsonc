@@ -32,6 +32,16 @@
 			"service": "pacific-scaffolding"
 		}
 	],
+	"routes": [
+		{
+			"pattern": "pacificscaffolding.com.au",
+			"custom_domain": true
+		},
+		{
+			"pattern": "www.pacificscaffolding.com.au",
+			"custom_domain": true
+		}
+	],
 	"observability": {
 		"enabled": true
 	},
