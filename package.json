@@ -19,7 +19,7 @@
     "react-dom": "^19.1.7"
   },
   "devDependencies": {
-    "@commitlint/cli": "^21.2.1",
+    "@commitlint/cli": "^21.2.3",
     "@commitlint/config-conventional": "^21.2.0",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
@@ -27,9 +27,9 @@
     "@types/react": "^19.1.7",
     "@types/react-dom": "^19.1.7",
     "eslint": "^9",
-    "eslint-config-next": "16.2.11",
+    "eslint-config-next": "16.3.6",
     "tailwindcss": "^4",
     "typescript": "^5.7.4",
-    "wrangler": "^4.121.0"
+    "wrangler": "^4.142.0"
   }
 }
